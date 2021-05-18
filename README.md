@@ -1,4 +1,5 @@
- Hi, I’m @dinesh-cpu
+#intro 
+Hi, I’m Dinesh Ram
  I’m interested in web-development and software-development.
  I’m currently learning web-development and software-development.
  I’m looking to collaborate on web-development and AI.
