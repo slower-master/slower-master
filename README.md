@@ -31,7 +31,7 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun :Love music and Circket.
 
-[![Twitter:Dinesh16340461 ](https://img.shields.io/twitter/follow/Dinesh16340461?style=social)](https://twitter.com/Dinesh16340461)
+
 [![GitHub dineshcpu](https://img.shields.io/github/followers/dinesh-cpu?label=follow&style=social)](https://github.com/dinesh-cpu)
 
 
