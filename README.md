@@ -1,63 +1,19 @@
-## I'm Dinesh Ram 👋
+### Hi there 👋, Dinesh Ram
+#### 3rd year student in CSE IITK
+![3rd year student in CSE IITK](https://camo.githubusercontent.com/148e7e6c954a413f6058f4b612a40e65b0693cd319f0236399ec479fca959c60/68747470733a2f2f6173736574732e776562736974652d66696c65732e636f6d2f3565353162336230333337333039643637326566643934632f3565353163633539333364333638666562633335313839375f666f6f7465722d696d672e737667)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-cpu&label=Views&color=blue&style=plastic" alt="dinesh-cpu" /> </p>
-
-<a href="https://twitter.com/Dinesh16340461">
-  <img align="left" alt="Dinesh's twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/dinesh-r-4989ba197/">
-  <img align="left" alt="Dinesh's Linkdin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/dinesh-cpu">
-  <img align="left" alt="Dinesh's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="https://www.instagram.com/dineshram17/">
-  <img align="left" alt="Dinesh's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=100029637431263">
-  <img align="left" alt="Dinesh's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
-
-<br/>
-<br/>
+My mind always open for new things!
 
 
 
-- 🔭 I’m currently working on [Go](https://golang.org/).
-- 🌱 I’m currently learning more about Machine learning.
-- 💬 Ask me about Web development or any tech related stuff.
-- 😄 Pronouns: He/His
-- ⚡ Fun :Love music and Circket.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dinesh-cpu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dinesh-r-4989ba197//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/100029637431263)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/dineshram17/)  
+
+ <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-[![GitHub dineshcpu](https://img.shields.io/github/followers/dinesh-cpu?label=follow&style=social)](https://github.com/dinesh-cpu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-cpu)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dinesh-cpu&show_icons=true)  
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://cormachogan.com/wp-content/uploads/2019/03/mongo-db-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
-
-<a href="https://github.com/dinesh-cpu">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dinesh-cpu&theme=light&hide_langs_below=1" />
-</a>
-<a href="https://github.com/dinesh-cpu">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dinesh-cpu&show_icons=true&theme=light&line_height=27" alt="Pawan's github stats"/>
-</a>
-
-<a href="https://github.com/dinesh-cpu/Waiting_page">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dinesh-cpu&repo=Waiting_page&theme=light" />
-</a>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories or by following(hehe)!
-
-</div>
+![Profile views](https://gpvc.arturio.dev/dinesh-cpu)  
 
