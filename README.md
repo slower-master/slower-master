@@ -57,7 +57,7 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories or by following(hehe)!
 
 </div>
 
