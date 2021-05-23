@@ -1,4 +1,4 @@
-## I'm [Dinesh Ram!] 👋
+## I'm Dinesh Ram 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-cpu&label=Views&color=blue&style=plastic" alt="dinesh-cpu" /> </p>
 
