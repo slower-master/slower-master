@@ -13,6 +13,6 @@
  
  
  
- ![Profile views](https://gpvc.arturio.dev/dinesh-cpu) 
+ ![Profile views](https://gpvc.arturio.dev/slower-master) 
 
 #### *slower-master --> the one who may be slower in starting learning phase but become master in that field 
